@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_loadingFragment_to_dictionaryFragment" type="id" />
+    <item name="generateButton" type="id" />
+    <item name="loadFileButton" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="passwordTextView" type="id" />
+    <item name="action_FirstFragment_to_SecondFragment" type="id" />
+    <item name="action_SecondFragment_to_FirstFragment" type="id" />
+</resources>
