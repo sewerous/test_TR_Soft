@@ -140,7 +140,7 @@ class DictionaryFragment : Fragment(R.layout.fragment_dictionary) {
     }
 
     private fun loadPasswordsFromFile() {
-        // Код для загрузки файла и сохранения паролей в БД
+        // Код для загрузки файла и сохранения паролей в Базу
     }
 }
 

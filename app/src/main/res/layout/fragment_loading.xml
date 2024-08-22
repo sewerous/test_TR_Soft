@@ -9,6 +9,9 @@
         android:id="@+id/loadingText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/inter_bold"
+        android:gravity="center"
+        android:textColor="#DF920F"
         android:text="Загрузка..."
         android:textSize="24sp" />
 </LinearLayout>
