@@ -6,13 +6,13 @@
 
     <fragment
         android:id="@+id/loadingFragment"
-        android:name="com.example.passwordgenerator.LoadingFragment" />
+        android:name="com.example.myapplication.LoadingFragment"/>
 
     <fragment
         android:id="@+id/dictionaryFragment"
-        android:name="com.example.passwordgenerator.DictionaryFragment" />
-
+        android:name="com.example.myapplication.DictionaryFragment"/>
     <fragment
         android:id="@+id/passwordListFragment"
-        android:name="com.example.passwordgenerator.PasswordListFragment" />
+        android:name="com.example.myapplication.PasswordListFragment"/>
+
 </navigation>
